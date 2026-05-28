@@ -1,0 +1,32 @@
+aid: velib-metropolis-paris-france
+name: Velib metropolis, Paris, France
+description: "Velib Open Data API"
+url: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Velib metropolis, Paris, France
+    description: "Velib Open Data API"
+    humanURL: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
+    baseURL: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
+common:
+  - type: Website
+    url: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
