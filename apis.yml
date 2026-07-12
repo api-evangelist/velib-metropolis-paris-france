@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
 common:
+  - type: DomainSecurity
+    url: security/velib-metropolis-paris-france-domain-security.yml
   - type: Website
     url: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
   - type: PublicAPIsListing
