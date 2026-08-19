@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/velib-metr
 name: Velib metropolis, Paris, France
 description: "Velib Open Data API"
 url: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
