@@ -39,7 +39,6 @@ apis:
   - name: Velib metropolis, Paris, France
     description: "Velib Open Data API"
     humanURL: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
-    baseURL: https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole
     tags:
       - Transportation
     properties:
