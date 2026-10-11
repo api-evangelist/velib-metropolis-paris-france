@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "velib-metropolis-paris-france",
+    "captured_at": "2026-10-11T194212",
+    "source_url": "https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole",
+    "source_type": "Website",
+    "file": "velib-metropolis-paris-france-2026-10-11T194212.png",
+    "bytes": 192225,
+    "capture": "playwright-local"
+  }
+]
